@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/mavlink.dir/mavlink_control.cpp.o CMakeFiles/mavlink.dir/serial_port.cpp.o CMakeFiles/mavlink.dir/autopilot_interface.cpp.o  -o mavlink -rdynamic -lpthread 

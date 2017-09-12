@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/cmaketest.dir/mavlink_control.cpp.o CMakeFiles/cmaketest.dir/serial_port.cpp.o CMakeFiles/cmaketest.dir/autopilot_interface.cpp.o  -o cmaketest -rdynamic -lpthread 
